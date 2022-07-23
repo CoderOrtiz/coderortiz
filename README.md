@@ -29,22 +29,33 @@
 <p align="center">
   <h3> I'm am a New Self-taught Full-Stack Developer.</h3>
  <ul>
-   <li>🔭 I’m currently working on ...</li>
-   <li>🌱 I’m currently learning ...</li>
-   <li>👯 I’m looking to collaborate on ...</li>
-   <li>🤔 I’m looking for help with ...</li>
-   <li>💬 Ask me about ...</li>
-   <li>📫 How to reach me: ...</li>
-   <li>😄 Pronouns: ...</li>
-   <li>⚡ Fun fact: ...</li>
+   <li>🔭 I’m currently working on deploying my blog website to the webs</li>
+   <li>🌱 I’m currently learning how to work with Heroku</li>
+   <li>🤔 I’m looking to network</li>
+   <li>💬 Ask me about my projects</li>
+   <li>📫 How to reach me: DM me on Linkedin</li>
+   <li>⚡ Fun fact: I've been told I am obsessed with Roombas lol</li>
   </ul>
 </p>
 <br>
 
-
 ### 📊 Github Stats
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderortiz&layout=compact)
+   
+<div align="center">
+<img height="203px" width="338px" alt="GIF" src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif?cid=ecf05e47fbx0s1kygp46r33kkw7agftffny106kd6e2780dn&rid=giphy.gif&ct=g" />
+   
+   <h3>Lets Connect! 🤝</h3>
+<a href="https://twitter.com/djose_94">
+  <img align="center" alt="DJ_Ortiz | Twitter" width="60px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/daniel-ortiz-50a436223/">
+  <img align="center" alt="DJ's Linkedin" width="60px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+</div>
+
+
+   
 
 
 
