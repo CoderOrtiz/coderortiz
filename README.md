@@ -30,9 +30,9 @@
 
 
 ### 📊 Github Stats
-<a href='https://github.com/coderortiz/github-stats-transparent'>
+<a href='https://github.com/CoderOrtiz/github-stats-transparent'>
   
-
+![Most Used Languages](https://raw.githubusercontent.com/CoderOrtiz/github-stats-transparent/output/generated/languages.svg)
 
 </a>
 
