@@ -30,10 +30,9 @@
 
 
 ### 📊 Github Stats
-<a href='https://github.com/CoderOrtiz/github_stats'>
-  
-   ![Stats Overview](https://raw.githubusercontent.com/username/CoderOrtiz/master/generated/overview.svg#gh-dark-mode-only)
-![Most Used Languages](https://raw.githubusercontent.com/username/CoderOrtiz/master/generated/overview.svg#gh-light-mode-only)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderortiz&show_icons=true&theme= transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderortiz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
    
 
 </a>
