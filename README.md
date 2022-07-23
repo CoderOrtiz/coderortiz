@@ -39,13 +39,10 @@
 </p>
 <br>
 
-<div align="left">
-<h3> 📊 Github Stats</h3?
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderortiz&layout=compact)
-</div>
-   
-<div align="right">
-<img align= height="203px" width="338px" alt="GIF" src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif?cid=ecf05e47fbx0s1kygp46r33kkw7agftffny106kd6e2780dn&rid=giphy.gif&ct=g" />
+<div align="center">
+   <h3> 📊 Github Stats</h3>
+   <img align= height="203px" width="338px" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderortiz&layout=compact" />
+<img align= height="120px" width="280px" alt="GIF" src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif?cid=ecf05e47fbx0s1kygp46r33kkw7agftffny106kd6e2780dn&rid=giphy.gif&ct=g" />
 </div>
 
 <div align="center">
