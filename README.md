@@ -14,7 +14,7 @@
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e4722no9j3evjm654k6314i9btbydf1bw90rn4nqvyv&rid=giphy.gif&ct=g" />
 <p align="center">
-  <h3> I'm 19 years old Self-taught Full-Stack developer from India.</h3>
+  <h3> I'm am a New Self-taught Full-Stack Developer.</h3>
 </p>
 <!--
 **CoderOrtiz/coderortiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
