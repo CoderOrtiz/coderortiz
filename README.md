@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<h3> 🙎 DJ Ortiz | 💻 Full Stack Developer | 🏖 Florida, USA</h3>
+<h3> 🙎 DJ Ortiz | 💻 Learning Web Dev for Fun | 🏖 Florida, USA</h3>
 </div>
 
 <h3 align="center">🔨 Languages and Tools:</h3>
